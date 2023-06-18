@@ -1,6 +1,6 @@
 ## Multi-Puller ##
 
-## NOTES FROM BRUCE
+## Notes from Bruce Elgort
 
 https://gitpython.readthedocs.io/en/stable/
 
