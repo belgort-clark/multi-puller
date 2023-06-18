@@ -1,6 +1,12 @@
 ## Multi-Puller ##
 
-This script is for teachers of CS50AP.  It will let you pull all the student work for a number of assignments, into folders that you name or that are auto-generated from the slug.  The script then runs compare50 against other student submissions and against archived submissions (I use Douglas Kiang's source50 repo) and creates a list of submissions as `list.html`.
+## NOTES FROM BRUCE
+
+https://gitpython.readthedocs.io/en/stable/
+
+pip install gitpython
+
+This script is for teachers of CS50P.  It will let you pull all the student work for a number of assignments, into folders that you name or that are auto-generated from the slug.  The script then runs compare50 against other student submissions and against archived submissions (I use Douglas Kiang's source50 repo) and creates a list of submissions as `list.html`.
 
 Run the script with `python3 puller.py`.
 
